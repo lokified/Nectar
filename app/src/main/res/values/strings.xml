@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Nectar</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome_to_our_store">Welcome \nto our store</string>
+    <string name="onboarding_image">onboarding image</string>
+    <string name="get_your_groceries_in_as_fast_as_one_hour">Get your groceries in as fast as one hour</string>
+    <string name="onboarding_picture">onboarding picture</string>
+    <string name="top_pic">top pic</string>
+    <string name="get_your_groceries">Get your groceries \nwith nectar</string>
+    <string name="or_connect_with_social_media">Or connect with social media</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+</resources>

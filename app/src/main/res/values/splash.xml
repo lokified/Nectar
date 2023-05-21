@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/green</item>
+
+        <item name="windowSplashScreenAnimatedIcon">@drawable/carrot</item>
+        <item name="postSplashScreenTheme">@style/Theme.Nectar</item>
+        <item name="android:windowLightStatusBar">@color/white</item>
+    </style>
+</resources>
